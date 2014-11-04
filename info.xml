@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<extension key="org.civicoop.printcasesequence" type="module">
+  <file>printcasesequence</file>
+  <name>Print Case Sequence</name>
+  <description>Change the sequence of the print case report to date of the case activity</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>CiviCooP</author>
+    <email>helpdesk@civicoop.org</email>
+  </maintainer>
+  <releaseDate>2014-10-24</releaseDate>
+  <version>1.0</version>
+  <develStage>beta</develStage>
+  <compatibility>
+    <ver>4.2</ver>
+  </compatibility>
+  <comments>Extension based on work done for specific customer</comments>
+  <civix>
+    <namespace>CRM/Printcasesequence</namespace>
+  </civix>
+</extension>
