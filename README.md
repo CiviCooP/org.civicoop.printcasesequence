@@ -1,4 +1,4 @@
 org.civicoop.printcasesequence
 ==============================
 
-CiviCRM extension to print the case report on date sequence
+CiviCRM native extension to print the case report on date sequence, rather than on the core id sequence. This extension has its own version of the template CRM/Case/Audit/Report.tpl (which should be checked on upgrades) and requires the extension org.civicoop.api.caseactivity.
